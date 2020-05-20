@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi guys, my name is nicollas and I'm new to programming. It is a pleasure to meet you.
